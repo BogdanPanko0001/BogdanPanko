@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e31967c3-c331-4866-971a-6fbb8e91fce8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HomeWork/background 3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/background3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork3/background 3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork3/img" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/HomeWork3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="e31967c3-c331-4866-971a-6fbb8e91fce8" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/lessons/leson-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/lessons/leson-2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +54,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664383793024</updated>
-      <workItem from="1664383794197" duration="1940000" />
+      <workItem from="1664383794197" duration="2635000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1664386911337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664386911337</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1664387042500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664387042500</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
