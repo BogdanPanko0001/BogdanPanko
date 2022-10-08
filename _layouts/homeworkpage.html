@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="reset.min.css" />
+    <style>
+      header,
+      nav,
+      footer,
+      div {
+        border: 2px solid grey;
+      }
+      img {
+        max-width: 20%;
+        object-fit: fill;
+      }
+      table,
+      th,
+      td {
+        border: 50px solid black;
+      }
+      table {
+        width: 100%;
+      }
+      body {
+        background-image: url("/img/black.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      p {
+        margin: 16px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+
+        padding: 0;
+      }
+      * {
+        color: white;
+      }
+      .li--margin {
+        margin: 0 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <p>Panko Bogdan Homework:</p>
+      <div>
+        <span>
+          <img src="123.png" alt="Bogdan" />
+        </span>
+
+        <section style="float: right; width: 80%; height: 100%">
+          <nav>
+            <ul style="display: flex; list-style: none">
+              <li class="li--margin">
+                <a href="/">HomeWork1</a>
+              </li>
+              <li class="li--margin">
+                <a href="/HomeWork/">HomeWork2</a>
+              </li>
+              <li class="li--margin">
+                <a href="/HomeWork3/">HomeWork3</a>
+              </li>
+            </ul>
+          </nav>
+          <div>
+            <ol>
+              <li>Panko Bogdan</li>
+              <li>01.12.1999</li>
+              <li>Ukrain/Lviv</li>
+              <li>It Developer/Frontend</li>
+            </ol>
+          </div>
+        </section>
+      </div>
+    </header>
+  </body>
+</html>
