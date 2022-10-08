@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e31967c3-c331-4866-971a-6fbb8e91fce8" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/css/bogdan.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/lessons/leson-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/lessons/leson-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/BogdanPanko",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BogdanPanko&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BogdanPanko\_sass" />
+      <recent name="C:\BogdanPanko" />
       <recent name="C:\Users\user\WebstormProjects\BogdanPanko\_pages" />
       <recent name="C:\Users\user\WebstormProjects\BogdanPanko\img" />
     </key>
@@ -55,6 +60,9 @@
       <option name="presentableId" value="Default" />
       <updated>1664383793024</updated>
       <workItem from="1664383794197" duration="2635000" />
+      <workItem from="1665212222981" duration="4000" />
+      <workItem from="1665212244532" duration="1707000" />
+      <workItem from="1665213961199" duration="1492000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1664386911337</created>
